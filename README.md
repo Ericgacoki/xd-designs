@@ -1,2 +1,2 @@
 # xd-designs
-A collection of my UI/UX designs made with Adobe XD 
+A collection of my UI/UX designs made with Adobe XD .
